@@ -1,12 +1,16 @@
-## Hi there 👋
+# noAfD - "Rechts ist keine meinung" 
+![GitHub followers](https://img.shields.io/github/followers/noAfD)
 
-<!--
+**"Faschismus ist eine Krankheit der Gesellschaft. Es ist unsere Pflicht, sie zu bekämpfen."** _- Ernesto Che Guevara_
 
-**Here are some ideas to get you started:**
+## Roadmap
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Website Launch [noAfD.world](https://noAfD.world)
+
+- Twitter Profil [noAfD_world](https://twitter.com/noafd_world)
+
+- Mastodon Profil [noAfD](https://social.anoxinon.de/@noAfD)
+
+## 
+
+Support: contact@noafd.world
